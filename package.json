@@ -1,0 +1,5 @@
+{
+  "name": "react-native-session-length",
+  "version": "0.0.1",
+  "description": "Provides a simple callback with how long it as been since user last activated the app."
+}
