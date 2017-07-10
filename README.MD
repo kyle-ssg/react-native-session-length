@@ -6,6 +6,11 @@ If you want to timeout people's sessions or show something when they have opened
 - Bringing the app to the foreground.
 - Opening the app from force close.
 
+# Installation 
+```
+npm i react-native-session-length
+```
+
 # Usage
 
 ```
